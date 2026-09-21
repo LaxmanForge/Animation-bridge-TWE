@@ -9,6 +9,14 @@ Welcome to the Telegram Animation Bridge! This is a straightforward desktop appl
 Because WhatsApp has very strict rules about media formats, you cannot normally share stickers between the two apps. This software automates the entire process: simply give it a Telegram link, and it will download, resize, and convert the stickers into a perfectly formatted package ready for your phone.
 
 ---
+##  Project Documentation & Presentation
+-  **Presentation Slides (PDF):** [View Presentation](docs/Automation_Bridge_Presentation.pdf)
+-  **Raw Presentation Deck:** [Download PPTX](docs/Automation_Bridge_Presentation.pptx)
+-  **Project Proposal:** [View Project Proposal](docs/Project_Proposal.pdf)
+
+
+
+---
 
 ## Instructions
 
