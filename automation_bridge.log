@@ -1,0 +1,60 @@
+2026-10-29T08:10:35.861533700 INFO  Working folder: C:\Users\laxma\TEW
+2026-10-29T08:10:35.865567200 INFO  Log file: C:\Users\laxma\TEW\automation_bridge.log
+2026-10-29T08:10:35.868535200 INFO  Java 21.0.12
+2026-10-29T08:10:37.143030600 OK    FFmpeg found: ffmpeg version 8.1.1-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers
+2026-10-29T08:10:37.150519200 OK    config.properties found, BOT_TOKEN loaded.
+2026-10-29T08:15:03.797857400 INFO  ---------- New setup ----------
+2026-10-29T08:15:03.871408800 OK    FFmpeg found: ffmpeg version 8.1.1-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers
+2026-10-29T08:15:03.873406 INFO  Step 1/4  Asking Telegram for pack "MaximXStickers44"...
+2026-10-29T08:15:06.199185900 INFO  Found 40 stickers - WhatsApp allows 30, using the first 30.
+2026-10-29T08:15:06.200190500 INFO  Step 2/4  Preparing folder MaximXStickers44_Export
+2026-10-29T08:15:06.203183500 INFO  Step 3/4  Downloading and converting (can take a minute)...
+2026-10-29T08:15:10.344164300 INFO  tray_icon.webp created (96x96).
+2026-10-29T08:15:10.346524 INFO  [1/40] OK -> sticker_1.webp (8 KB)
+2026-10-29T08:15:14.445740400 INFO  [2/40] OK -> sticker_2.webp (11 KB)
+2026-10-29T08:15:17.982091300 INFO  [3/40] OK -> sticker_3.webp (9 KB)
+2026-10-29T08:15:21.806642500 INFO  [4/40] OK -> sticker_4.webp (9 KB)
+2026-10-29T08:15:25.612731100 INFO  [5/40] OK -> sticker_5.webp (10 KB)
+2026-10-29T08:15:29.305127700 INFO  [6/40] OK -> sticker_6.webp (9 KB)
+2026-10-29T08:15:33.956384600 INFO  [7/40] OK -> sticker_7.webp (11 KB)
+2026-10-29T08:15:37.403057900 INFO  [8/40] OK -> sticker_8.webp (9 KB)
+2026-10-29T08:15:41.332574400 INFO  [9/40] OK -> sticker_9.webp (10 KB)
+2026-10-29T08:15:44.883846200 INFO  [10/40] OK -> sticker_10.webp (11 KB)
+2026-10-29T08:15:48.638538100 INFO  [11/40] OK -> sticker_11.webp (12 KB)
+2026-10-29T08:15:52.137811400 INFO  [12/40] OK -> sticker_12.webp (9 KB)
+2026-10-29T08:15:55.894609200 INFO  [13/40] OK -> sticker_13.webp (9 KB)
+2026-10-29T08:15:59.354162800 INFO  [14/40] OK -> sticker_14.webp (7 KB)
+2026-10-29T08:16:03.205458200 INFO  [15/40] OK -> sticker_15.webp (11 KB)
+2026-10-29T08:16:06.686623900 INFO  [16/40] OK -> sticker_16.webp (8 KB)
+2026-10-29T08:16:10.961702400 INFO  [17/40] OK -> sticker_17.webp (9 KB)
+2026-10-29T08:16:14.388951400 INFO  [18/40] OK -> sticker_18.webp (9 KB)
+2026-10-29T08:16:18.243167400 INFO  [19/40] OK -> sticker_19.webp (9 KB)
+2026-10-29T08:16:22.305419600 INFO  [20/40] OK -> sticker_20.webp (8 KB)
+2026-10-29T08:16:25.980053300 INFO  [21/40] OK -> sticker_21.webp (9 KB)
+2026-10-29T08:16:30.116110100 INFO  [22/40] OK -> sticker_22.webp (12 KB)
+2026-10-29T08:16:33.731732400 INFO  [23/40] OK -> sticker_23.webp (9 KB)
+2026-10-29T08:16:37.551688800 INFO  [24/40] OK -> sticker_24.webp (12 KB)
+2026-10-29T08:16:41.490369600 INFO  [25/40] OK -> sticker_25.webp (13 KB)
+2026-10-29T08:16:45.267678600 INFO  [26/40] OK -> sticker_26.webp (9 KB)
+2026-10-29T08:16:49.226979400 INFO  [27/40] OK -> sticker_27.webp (11 KB)
+2026-10-29T08:16:52.713477800 INFO  [28/40] OK -> sticker_28.webp (8 KB)
+2026-10-29T08:16:56.701695300 INFO  [29/40] OK -> sticker_29.webp (8 KB)
+2026-10-29T08:17:00.539917800 INFO  [30/40] OK -> sticker_30.webp (12 KB)
+2026-10-29T08:17:00.545069700 INFO  Converted 30, failed 0, skipped 0.
+2026-10-29T08:17:00.546074300 INFO  Step 4/4  Writing contents.json...
+2026-10-29T08:17:00.550221600 OK    Pack ready in C:\Users\laxma\TEW\MaximXStickers44_Export - click 'Send to Phone'.
+2026-10-29T08:17:59.574116500 INFO  Zipping the sticker pack...
+2026-10-29T08:17:59.647164300 INFO  Zipped 32 files.
+2026-10-29T08:17:59.665951800 INFO  Zip ready: C:\Users\laxma\TEW\MaximXStickers44_Export.zip (289 KB)
+2026-10-29T08:17:59.684922500 OK    Server is running. On your phone open one of these links:
+2026-10-29T08:17:59.692946600 INFO     http://192.168.56.1:8080     (VirtualBox Host-Only Ethernet Adapter)
+2026-10-29T08:17:59.693948300 INFO     http://192.168.246.1:8080     (VMware Virtual Ethernet Adapter for VMnet1)
+2026-10-29T08:17:59.693948300 INFO     http://192.168.239.1:8080     (VMware Virtual Ethernet Adapter for VMnet8)
+2026-10-29T08:17:59.694954 INFO     http://172.31.213.76:8080     (Intel(R) Wireless-AC 9462)
+2026-10-29T08:17:59.695943800 INFO  Use the link whose adapter is your Wi-Fi / hotspot (usually 192.168.x.x).
+2026-10-29T08:17:59.697180800 INFO  Phone and PC must be on the same network. If the page does not open, allow 'Java(TM) Platform SE binary' in Windows Firewall (Private networks).
+2026-10-29T08:17:59.799360800 OK    Self-test passed: the server answers on this PC. If the phone cannot connect, it is the network or firewall.
+2026-10-29T08:22:00.804003900 INFO  Phone 172.31.213.174 opened the download page.
+2026-10-29T08:22:06.342996800 INFO  Phone 172.31.213.174 is downloading MaximXStickers44_Export.zip...
+2026-10-29T08:22:06.399566300 OK    Sent 289 KB to 172.31.213.174. You can stop the server now.
+2026-10-29T08:23:55.938619700 INFO  Server stopped.
